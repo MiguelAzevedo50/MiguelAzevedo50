@@ -6,7 +6,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAzevedo50&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-  <h2> Linguagens que codifico: </h2>
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Miguel-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Miguel-Ts" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
